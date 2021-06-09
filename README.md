@@ -20,3 +20,4 @@ I0609 10:37:41.162234   10972 main.go:96] Inserting record ExampleRelation{"MyEx
 I0609 10:37:41.164565   10972 main.go:104] Deleting record with key "MyExample"
 I0609 10:37:41.166243   10972 main.go:76] Stopping DDlog program
 ```
+This is the output of a ddlog program which inserted and deleted two golang example objects
